@@ -1,4 +1,4 @@
-# get-study2
+# get-study2　西岡
 
 テスト2
 テスト3
